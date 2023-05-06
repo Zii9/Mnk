@@ -1,0 +1,15 @@
+[{ 
+   "url": "https://raw.githubusercontent.com/Zii9/Mnk/master/Builds/TestPlugin.cs3", 
+   "status": 1, 
+   "version": 1, 
+   "apiVersion": 1, 
+   "name": "xmoviesforyou", 
+   "internalName": "xmoviesforyou", 
+   "authors": ["Blatzar"], 
+   "description": "Watch live TV", 
+   "repositoryUrl": "https://github.com/Zii9/Mnk", 
+   "tvTypes": ["LiveStreams"], 
+   "language": "en", 
+   "iconUrl": "", 
+   "isAdult": false 
+ }]
