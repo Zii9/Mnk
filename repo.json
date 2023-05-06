@@ -2,5 +2,5 @@
    "name": "xmoviesforyou repository", 
    "description": "Lorem ipsum", 
    "manifestVersion": 1, 
-   "pluginLists": ["https://raw.githubusercontent.com/recloudstream/TestPlugin/master/plugins.json"] 
+   "pluginLists": ["https://raw.githubusercontent.com/Zii9/Mnk/master/Builds/TestPlugin.json"] 
  }
